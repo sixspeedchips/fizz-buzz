@@ -12,6 +12,7 @@ public class FizzBuzz {
     for (int i = 1; i <= upperBound; i++) {
       System.out.println(fizzBuzzValue(i));
     }
+
   }
 
   public static String fizzBuzzValue(int value) {
